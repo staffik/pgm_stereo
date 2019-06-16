@@ -5,4 +5,6 @@ Loopy belief propagation (LBP) and Markov random field (MRF) algorithms are used
 
 Based on http://nghiaho.com/?page_id=1366
 
+* `OpenCV2` is required.
+
 ![result.jpg](result.jpg)
